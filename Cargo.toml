@@ -4,6 +4,9 @@ version = "1.0.0"
 authors = ["Florian Gilcher <florian.gilcher@asquera.de>"]
 description = "Enhancing panic! in the most musical fashion"
 license = "CC0"
+documentation = "https://github.com/skade/panic_at_the_disco/blob/master/README.md"
+homepage = "https://github.com/skade/panic_at_the_disco/"
+repository = "https://github.com/skade/panic_at_the_disco/"
 
 [dependencies]
 open = "1.2"
